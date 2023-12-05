@@ -1,0 +1,271 @@
+.find-an-agent-area .find-an-agent-bg {
+    box-shadow: 0 0 20px 3px rgba(0, 0, 0, .05);
+    padding: 50px;
+}
+
+*,
+:after,
+:before {
+    box-sizing: border-box;
+}
+
+user agent stylesheet div {
+    display: block;
+}
+
+.container,
+.container-fluid,
+.container-lg,
+.container-md,
+.container-sm,
+.container-xl,
+.container-xxl {
+    --bs-gutter-x: 1.5rem;
+    --bs-gutter-y: 0;
+    width: 100%;
+    padding-right: calc(var(--bs-gutter-x) * .5);
+    padding-left: calc(var(--bs-gutter-x) * .5);
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.find-an-agent-content p {
+    margin-bottom: 30px;
+}
+
+p {
+    font-size: 15px;
+    margin-bottom: 15px;
+    font-family: Open Sans, sans-serif;
+}
+
+p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+
+
+
+user agent stylesheet p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+.row {
+    --bs-gutter-x: 1.5rem;
+    --bs-gutter-y: 0;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: calc(-1 * var(--bs-gutter-y));
+    margin-right: calc(-.5 * var(--bs-gutter-x));
+    margin-left: calc(-.5 * var(--bs-gutter-x));
+}
+
+.default-btn.btn-five {
+    background-color: #12b48b;
+    text-decoration: none;
+}
+
+.default-btn {
+    font-size: 16px;
+    color: #fff;
+    padding: 15px 30px;
+    line-height: 1;
+    transition: all .5s;
+    text-transform: capitalize;
+    position: relative;
+    cursor: pointer;
+    border-radius: 4px;
+    text-align: center;
+    overflow: hidden;
+    z-index: 1;
+    background-color: #31abfc;
+}
+
+a,
+a:hover {
+    text-decoration: none;
+}
+
+a {
+    display: inline-block;
+    transition: all .5s;
+    color: #31abfc;
+}
+
+a {
+    color: var(--bs-link-color);
+    text-decoration: underline;
+}
+
+
+
+.pb-100 {
+    padding-bottom: 100px;
+}
+
+
+
+.align-items-center {
+    align-items: center !important;
+}
+
+.find-an-agent-content h2 {
+    margin-bottom: 20px;
+    font-size: 30px;
+}
+
+.default-btn.btn-five {
+    background-color: #12b48b;
+}
+
+
+
+.default-btn.btn-five:after,
+.default-btn.btn-five:before {
+    background-color: #204066;
+}
+
+.default-btn:after,
+.default-btn:before {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 50%;
+    background-color: #262566;
+    z-index: -1;
+    transition: all .5s;
+}
+
+.default-btn:before {
+    top: 0;
+    left: 100%;
+}
+
+.default-btn:after {
+    bottom: 0;
+    right: 100%;
+}
+
+
+
+.single-find-an-agent {
+    border-right: 1px solid #eee;
+    border-bottom: 1px solid #eee;
+    text-align: center;
+    padding: 10px;
+    transition: all .5s;
+    cursor: pointer;
+}
+
+.bx-home:before {
+    content: "\eb12";
+}
+
+
+.single-find-an-agent i {
+    color: #12b48b;
+    font-size: 50px;
+    line-height: 1;
+    display: block;
+    margin-bottom: 5px;
+}
+
+.bx {
+    font-family: boxicons !important;
+    font-weight: 400;
+    font-style: normal;
+    font-feature-settings: normal;
+    font-variant: normal;
+    line-height: 1;
+    text-rendering: auto;
+    display: inline-block;
+    text-transform: none;
+    
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.p-0 {
+    padding: 0 !important;
+}
+
+@media (min-width: 992px) {
+    .col-lg-4 {
+         flex: 0 0 auto; 
+        width: 33.33333333%;
+    }
+}
+
+.find-an-agent-area .col-lg-8 .col-lg-4:nth-child(3) .single-find-an-agent {
+    border-right: none;
+}
+
+
+.bx-car:before {
+    content: "\ea27";
+}
+
+user agent stylesheet i {
+    font-style: italic;
+}
+
+.bxs-business:before {
+    content: "\ecfb";
+}
+
+
+.bxs-plane:before {
+    content: "\ee72";
+}
+*, :after, :before {
+    box-sizing: border-box;
+}
+
+
+user agent stylesheet
+i {
+    font-style: italic;
+}
+.bx-user-circle:before {
+    content: "\ec65";
+}
+.bx-book-reader:before {
+    content: "\e9f0";
+}
+.single-find-an-agent a {
+    font-size: 20px;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: #204066;
+    text-decoration: none;
+}
+
+a, a:hover {
+    text-decoration: none;
+}
+
+
+.find-an-agent-area .col-lg-8 .col-lg-4:nth-child(4) .single-find-an-agent, .find-an-agent-area .col-lg-8 .col-lg-4:nth-child(5) .single-find-an-agent {
+    border-bottom: none;
+}
+ @media (min-width: 992px)
+{.col-lg-8 {
+    flex: 0 0 auto;
+    width: 66.66666667%;
+}} 
+
+.p-0 {
+    padding: 0!important;
+}
+
+@media (min-width: 992px)
+{.col-lg-4 {
+     flex: 0 0 auto;
+    width: 33.33333333%;
+}}
+
+ 
