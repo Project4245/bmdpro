@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/bmdpro/static/css/main.b276cd58.css",
+    "main.js": "/bmdpro/static/js/main.982997a7.js",
+    "static/js/787.a37617f0.chunk.js": "/bmdpro/static/js/787.a37617f0.chunk.js",
+    "static/media/counter-bg-6.jpg": "/bmdpro/static/media/counter-bg-6.77b9daf72633906ba0d7.jpg",
+    "static/media/background.jpg": "/bmdpro/static/media/background.91a27d29f0bf4d6d9ad3.jpg",
+    "index.html": "/bmdpro/index.html",
+    "main.b276cd58.css.map": "/bmdpro/static/css/main.b276cd58.css.map",
+    "main.982997a7.js.map": "/bmdpro/static/js/main.982997a7.js.map",
+    "787.a37617f0.chunk.js.map": "/bmdpro/static/js/787.a37617f0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b276cd58.css",
+    "static/js/main.982997a7.js"
+  ]
+}
